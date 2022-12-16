@@ -10,6 +10,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+    align-items: center;
 }
 
 .image-gallery:hover {
@@ -19,6 +20,8 @@ body {
 
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 70px;
+    padding-top: 40px;
 }
 
 a {
